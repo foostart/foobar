@@ -1,0 +1,11 @@
+{
+    "name": "foostart/foobar",
+    "description": "for testing!!! DO NOT COMMIT",
+    "authors": [
+        {
+            "name": "foostart",
+            "email": "foostart.com@gmail.com"
+        }
+    ],
+    "require": {}
+}

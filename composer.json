@@ -7,6 +7,5 @@
             "email": "foostart.com@gmail.com"
         }
     ],
-	"minimum-stability": "dev",
     "require": {}
 }
